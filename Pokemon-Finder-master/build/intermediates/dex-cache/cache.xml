@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\claey_000\Desktop\manu\Pokemon-Finder-master\GooglePokemon\build\intermediates\pre-dexed\debug\classes-fa8b1b5ffb20853eae2d2a0236efa51b06e8627d.jar"
+        jar="C:\Users\claey_000\Desktop\manu\Pokemon-Finder-master\GooglePokemon\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\claey_000\Desktop\manu\Pokemon-Finder-master\GooglePokemon\build\intermediates\pre-dexed\debug\classes-875c3b93554f8574dfa71cd34776f700a8e6fd00.jar"
+        jar="C:\Users\claey_000\Desktop\manu\Pokemon-Finder-master\GooglePokemon\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="eb69b5c2e53e59d82f7439f3217f46f9d98f0c89"/>
+    <item
+        dex="C:\Users\claey_000\Desktop\manu\Pokemon-Finder-master\GooglePokemon\build\intermediates\pre-dexed\debug\classes-01908c499adb30d49233091bf1ff5c6583ba1087.jar"
+        jar="C:\Users\claey_000\Desktop\manu\Pokemon-Finder-master\GooglePokemon\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da"/>
+    <item
+        dex="C:\Users\claey_000\Desktop\manu\Pokemon-Finder-master\GooglePokemon\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-7a0e87776dea40322912067ed6c9cf670a3def4a.jar"
+        jar="C:\Users\claey_000\Desktop\eclipse 2\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\claey_000\Desktop\manu\Pokemon-Finder-master\GooglePokemon\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-a818332b7217ad239a83122cbe738431a197bb84.jar"
+        jar="C:\Users\claey_000\Desktop\manu\Pokemon-Finder-master\GooglePokemon\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+
+</pre-dex-items>

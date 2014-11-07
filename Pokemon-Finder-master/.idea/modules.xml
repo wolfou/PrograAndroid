@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GooglePokemon/GooglePokemon.iml" filepath="$PROJECT_DIR$/GooglePokemon/GooglePokemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PokeTrip.iml" filepath="$PROJECT_DIR$/PokeTrip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pokemon-Finder-master.iml" filepath="$PROJECT_DIR$/Pokemon-Finder-master.iml" />
+    </modules>
+  </component>
+</project>
+
